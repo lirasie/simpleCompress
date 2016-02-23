@@ -1,0 +1,5 @@
+compress:
+	./fcmp a <target file> <compressed file name>
+
+decompress:
+	./fcmp b <target file> <decomressed file name>
